@@ -15,31 +15,31 @@
      ```
     - For simulating a high entropy alloy AuPtPdCu cluster of 12 atoms:
      ```python
-      eleNames = ['Au', 'Pt', 'Pd', 'Cu']
-      eleNums = [3,3,3,3]
+     eleNames = ['Au', 'Pt', 'Pd', 'Cu']
+     eleNums = [3,3,3,3]
      ```
    - For simulating a high entropy alloy AuPtPdNi cluster of 12 atoms:
      ```python
-      eleNames = ['Au', 'Pt', 'Pd', 'Ni']
-      eleNums = [3,3,3,3]
+     eleNames = ['Au', 'Pt', 'Pd', 'Ni']
+     eleNums = [3,3,3,3]
      ```
 
     - For simulating a high entropy alloy AuPtPdAg cluster of 8 atoms:
      ```python
-      eleNames = ['Au', 'Pt', 'Pd', 'Ag']
-      eleNums = [2,2,2,2]
+     eleNames = ['Au', 'Pt', 'Pd', 'Ag']
+     eleNums = [2,2,2,2]
      ```
 
     - For simulating a high entropy alloy AuPtPdAg cluster of 12 atoms:
      ```python
-      eleNames = ['Au', 'Pt', 'Pd', 'Ag']
-      eleNums = [3,3,3,3]
+     eleNames = ['Au', 'Pt', 'Pd', 'Ag']
+     eleNums = [3,3,3,3]
      ```
 
     - For simulating a high entropy alloy AuPtPdAg cluster of 20 atoms:
      ```python
-      eleNames = ['Au', 'Pt', 'Pd', 'Ag']
-      eleNums = [5,5,5,5]
+     eleNames = ['Au', 'Pt', 'Pd', 'Ag']
+     eleNums = [5,5,5,5]
      ```
 
 

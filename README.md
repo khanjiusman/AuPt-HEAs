@@ -48,3 +48,6 @@
      ```bash
      python gym_trpo_single.py    # For single execution
      ```
+---
+# Note
+The code is adapted from [**clusgym_drl**](https://github.com/rajeshkochi444/clusgm_drl). We thank the authors for making the code available on github.

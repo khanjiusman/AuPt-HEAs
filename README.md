@@ -2,7 +2,7 @@ This repository contains code that is an adapted and modified implementation of 
 
 J. Phys. Chem. A, 2024, 128, 42, 9122–9134.
 
-We gratefully acknowledge the original authors for developing the methodology, which has been extended and customized in this project for application to quaternary Au–Pt-based high-entropy alloy nanoclusters.
+We gratefully acknowledge the original authors for developing the methodology, which has been extended and customized in this project for application to quaternary AuPt-based high-entropy alloy nanoclusters.
 
 ### How to Run the Code
 

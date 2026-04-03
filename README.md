@@ -1,8 +1,5 @@
-This repository contains code that is an adapted and modified implementation of the Deep Reinforcement Learning (DRL) framework originally developed in:
-
-[**clusgym_drl**](https://github.com/rajeshkochi444/clusgm_drl) J. Phys. Chem. A, 2024, 128, 42, 9122–9134.
-
-We gratefully acknowledge the original authors for developing the methodology, which has been extended and customized in this project for application to quaternary AuPt-based high entropy alloy nanoclusters.
+This repository contains code that is an adapted and modified implementation of the Deep Reinforcement Learning (DRL) framework originally developed in 
+[**clusgym_drl**](https://github.com/rajeshkochi444/clusgm_drl) J. Phys. Chem. A, 2024, 128, 42, 9122–9134. We gratefully acknowledge the original authors for developing the methodology, which has been extended and customized in this project for application to quaternary AuPt-based high entropy alloy nanoclusters.
 
 ### How to Run the Code
 
